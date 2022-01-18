@@ -16,16 +16,21 @@ Vorhandene Funktionen:
 - Sprache
 
 ## Wunsch
-### Umgebungssteuerung
+### 1.Umgebungssteuerung
 - Steuerung Licht, Temperatur/Jalousien
 - Fernseher, Musikanlage oder Spielzeug 
 
-### Computer
+### 2.Computer
 - Internet surfen
 - E-Mail schreiben
 - Visuals erzeugen oder Klänge erzeugen oder Computerspiel adaptieren
 
-### SmartPhone bedienen
+### 3.SmartPhone bedienen
 - SMS schreiben
 - Anruf tätigen
 
+
+# Lösung
+### 1.Umgebungssteuerung
+### 2.Computer
+### 3.SmartPhone bedienen
