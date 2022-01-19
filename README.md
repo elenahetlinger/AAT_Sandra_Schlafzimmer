@@ -1,25 +1,24 @@
-# ATGL Ali, Iylmaz & Hetlinger
+# Use Case -Sandra
+### ATGL: Ali, Iylmaz & Hetlinger
 
-## Use Case -Sandra
 
-#
-### Aufgabenstellung: 
+## Aufgabenstellung: 
 Sandra hat eine körperliche Einschränkung und eine starke Sehbeeinträchtigung. Sie hat einen Rollstuhl, einen Laptop und ein SmartPhone. Sie kann Buchstaben nur in dreifacher Größe erkennen, benötigt hohen Kontrast und hat eine Rotsehschwäche (Protanopie). Sie würde gerne eine gewisse Autonomie zurückerlangen und ihre Umgebung (z.B. Licht, Jalousien, Musik) steuern zu können. Darüberhinaus würde sie gerne Klänge erzeugen können und sich die Zeit mit
 Computerspielen vertreiben. Sie möchte gerne im Internet surfen oder am Smartphone mit ihren Freunden kommunizieren können.
 
-### Vorhandene Funktionen:
+## Vorhandene Funktionen:
 - linker Arm: Daumen+Zeigefinger
 - Kopfbewegung
 - Mund/Lippen, Saugen/Pusten
 - Sprache
 
-### Verwendete Komponenten:
+## Verwendete Komponenten:
 - Asterics Grid
 - IrTrans (Fernsehersteuerung) 
 - FlipMouse
 - Fabi
 - Sprachsteuerung (Siri)
-#
+
 ## Wunsch
 ### 1. Umgebungssteuerung
 - Steuerung Licht, Temperatur/Jalousien
@@ -31,10 +30,10 @@ Computerspielen vertreiben. Sie möchte gerne im Internet surfen oder am Smartph
 ### 3. SmartPhone bedienen
 - SMS schreiben
 - Anruf tätigen
-#
+
 # Lösung
-# Umgebungssteuerung 
-## AsTeRICs Grid
+## Umgebungssteuerung 
+### AsTeRICs Grid
 Für die Umgebungssteuerung wird ein zentraler OpenHab Server verwendet, um die Beleuchtung zu steuern sowie die Temperatur in der Wohnung des Schlafzimmers zu regeln. 
 Desweiteren soll die Beschattung des Wohnzimmers gesteuert werden. 
 Es wird das Asterics Grid verwendet, um diese Steuerungen durchzuführen. Die Tatsache, dass Sandra nur ihren Mund bzw. ihre Lippen bewegen kann, ermöglicht die Verwendung einer FlipMouse. 
