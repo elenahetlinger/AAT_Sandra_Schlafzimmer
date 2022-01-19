@@ -1,4 +1,4 @@
-# ATGL - Lab | Ali, Iylmaz & Hetlinger
+# ATGL Ali, Iylmaz & Hetlinger
 
 ## Use Case -Sandra
 
@@ -48,7 +48,7 @@ Diese Einstellungen wurden bei "Aktionen bearbeiten" durchgeführt.
 ### Schlafzimmer -Grid
 Im Schlafzimmer Grid können Beleuchtung oder Temperatur ausgewählt werden. Diese leiten zu einer weiteren Seite, wo schließlich die Steuerungen als Asterics Aktionen durchgefüht werden. 
 ![image](https://user-images.githubusercontent.com/82451150/150139409-b61e4c32-d748-4956-baba-a5e454f33a92.png)
-Aufgrund Sandras Sehschwäche wurden ganz große Felder erstellt. 
+Aufgrund Sandras Sehschwäche wurde große Felder erstellt. 
 ![image](https://user-images.githubusercontent.com/82451150/150140079-42482fd5-51b6-45bd-bb80-f9966c6eb383.png)
 
 
