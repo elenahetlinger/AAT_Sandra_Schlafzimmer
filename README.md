@@ -62,7 +62,10 @@ Unten sieht man alle verwendeten Befehle für das Schlafzimmer Item.
 
 ![image](https://user-images.githubusercontent.com/82451150/150150656-a9532e06-b39e-4776-9414-d8710455f783.png)
 
-Das Item "Dimmen EIN/AUS" ist im Smart Lab integriert und somit nur in dem Basic UI ersichtlich. 
+Das Item "Dimmen EIN/AUS" ist im Smart Lab integriert und somit nur in dem Basic UI ersichtlich. Auch die Temperatur im Wohnzimmer ist nur über das GUI tesbar.
+
+![image](https://user-images.githubusercontent.com/82451150/150325462-3e419ddd-273e-4ae3-8fab-4d7f54ec7910.png)
+
 
 ### Temperatur -Grid
 Im Temperatur Grid kann zwischen 5, 10, 15 und 22 Grad ausgewählt werden. Weiters gibt es noch die Option eine automatische Nachtabsenkung zu aktivieren oder zu deaktivieren. 
@@ -79,15 +82,11 @@ Im Wohnzimmer Grid können die Jalousinen hinauf und hinunter navigiert werden. 
 ![image](https://user-images.githubusercontent.com/82451150/150154249-0f0ec269-9e43-4f53-bc82-d5e7ac47edb8.png)
 
 
-
-
-
-
-
-
-
-
-
-
 # Computer
+## Accessibility Settings
+  
+# Eingabegeräte
+## FlipMouse
+## Fabi
+  
 # SmartPhone bedienen
