@@ -95,6 +95,9 @@ Für eine einfachere Handhabung des Kommunizierns werden Emails über die Sprach
 ![image](https://user-images.githubusercontent.com/82451150/150518950-d1e30a60-6a0b-42f6-bd54-fc41daca9b17.png)
 ![image](https://user-images.githubusercontent.com/82451150/150518996-3b571642-957a-4468-bc69-5a3fa521a465.png)
 ![image](https://user-images.githubusercontent.com/82451150/150519020-946b1b24-c578-4f50-952a-4fc75320e31b.png)
+
+### Computerspiel
+  
   
 ## SMS schreiben und Anruf tätigen mittels Siri
 Das Apple Siri ist eine Sprachassistentin, der für Sandra perfekt geeignet ist, um Anrufe zu tätigen oder Emails zu verschicken. In den Einstellungen muss das erste Feld "Auf Hey Siri achten" aktiviert sein, um nur über die Sprache an Siri Befehle zu übermitteln.
