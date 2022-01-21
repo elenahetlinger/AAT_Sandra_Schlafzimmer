@@ -1,5 +1,5 @@
-# Use Case -Sandra
-### ATGL: Ali, Iylmaz & Hetlinger
+# Use Case - Sandra
+### ATGL: Ali, Ylmaz & Hetlinger
 
 
 ## Aufgabenstellung: 
@@ -11,13 +11,6 @@ Computerspielen vertreiben. Sie möchte gerne im Internet surfen oder am Smartph
 - Kopfbewegung
 - Mund/Lippen, Saugen/Pusten
 - Sprache
-
-## Verwendete Komponenten:
-- Asterics Grid
-- IrTrans (Fernsehersteuerung) 
-- FlipMouse
-- Fabi
-- Sprachsteuerung (Siri)
 
 ## Wunsch
 ### 1. Umgebungssteuerung
@@ -32,6 +25,18 @@ Computerspielen vertreiben. Sie möchte gerne im Internet surfen oder am Smartph
 - Anruf tätigen
 
 # Lösung
+
+## Verwendete Komponenten:
+- Asterics Grid
+- IrTrans (Fernsehersteuerung) 
+- Sprachsteuerung (Siri)
+- OpenHab
+
+## Eingabegeräte
+### FlipMouse
+
+### Fabi
+
 ## Umgebungssteuerung 
 ### AsTeRICs Grid
 Für die Umgebungssteuerung wird ein zentraler OpenHab Server verwendet, um die Beleuchtung zu steuern sowie die Temperatur in der Wohnung des Schlafzimmers zu regeln. 
@@ -91,13 +96,10 @@ Für eine einfachere Handhabung des Kommunizierns werden Emails über die Sprach
 ![image](https://user-images.githubusercontent.com/82451150/150518996-3b571642-957a-4468-bc69-5a3fa521a465.png)
 ![image](https://user-images.githubusercontent.com/82451150/150519020-946b1b24-c578-4f50-952a-4fc75320e31b.png)
   
-## Eingabegeräte
-### FlipMouse
-### Fabi
-  
 ## SMS schreiben und Anruf tätigen mittels Siri
 Das Apple Siri ist eine Sprachassistentin, der für Sandra perfekt geeignet ist, um Anrufe zu tätigen oder Emails zu verschicken. In den Einstellungen muss das erste Feld "Auf Hey Siri achten" aktiviert sein, um nur über die Sprache an Siri Befehle zu übermitteln.
 Im untenstehenden Video ist die Kommunikation mit Siri erkennbar.
   
 ![image](https://user-images.githubusercontent.com/82451150/150521434-c37ad077-de36-483d-9412-56acc774e2cc.png) 
+
 
