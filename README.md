@@ -105,4 +105,6 @@ Im untenstehenden Video ist die Kommunikation mit Siri erkennbar.
   
 ![image](https://user-images.githubusercontent.com/82451150/150521434-c37ad077-de36-483d-9412-56acc774e2cc.png) 
 
+# Ergebnis FitsTask
+
 
