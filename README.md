@@ -56,30 +56,20 @@ Als erstes muss eine neue Asterics Aktion angelegt werden. Gleichzeitig sollte d
 
 
 Einpaar Items wie Temperatur Regelung und das Dimmbares Licht Ein-/Ausschalten sind nicht im Smart Lab integriert und daher nur in der Basic-UI ersichtlich. 
+
 ![image](https://user-images.githubusercontent.com/82451150/150325462-3e419ddd-273e-4ae3-8fab-4d7f54ec7910.png)
 
 ### Schlafzimmer -Grid
-Im Schlafzimmer Grid können Beleuchtung oder Temperatur ausgewählt werden. Diese leiten zu einer weiteren Seite, wo schließlich die Steuerungen als Asterics Aktionen durchgeführt werden. 
-
-schlafzimmer grid
-![image](https://user-images.githubusercontent.com/82451150/150139409-b61e4c32-d748-4956-baba-a5e454f33a92.png)
-
+Im Schlafzimmer Grid können Beleuchtung oder Temperatur ausgewählt werden. Diese leiten zu einer weiteren Seite, wo die Steuerungen als Asterics Aktionen durchgeführt werden. 
 Aufgrund Sandras Sehschwäche wurden große Felder erstellt.
 
-beleuchtung grid
+![image](https://user-images.githubusercontent.com/82451150/150139409-b61e4c32-d748-4956-baba-a5e454f33a92.png)
   
 ![image](https://user-images.githubusercontent.com/82451150/150140079-42482fd5-51b6-45bd-bb80-f9966c6eb383.png)
 
 
-
-
-
-
 ### Temperatur -Grid
 Im Temperatur Grid kann zwischen 5, 10, 15 und 22 Grad ausgewählt werden. Weiters gibt es noch die Option eine automatische Nachtabsenkung zu aktivieren oder zu deaktivieren. 
-
-
-temp grid
 
 ![image](https://user-images.githubusercontent.com/82451150/150153535-753db912-e2d4-4fb7-bf0d-50207b566115.png)
 
@@ -88,19 +78,23 @@ Mit diesem Grid kann der Fernseher gesteuert werden. Mittels IrTrans Aktuator wu
 
 ### Wohnzimmer -Grid 
 Im Wohnzimmer Grid können die Jalousinen hinauf und hinunter navigiert werden. Auch hier musste das richtige Befehl zu dem Port "ActionString" versendet werden, um das gewünschte Ziel zu erreichen.
-
-rollo grid
+  
 ![image](https://user-images.githubusercontent.com/82451150/150153827-4815036a-c410-49bd-8f10-3ce8d6d902f6.png)
 
 
+## Computer
+### Accessibility Settings
+Für den Wunsch Sandras Computerspiele spielen zu können und Emails zu schreiben wurde ein Windows 11 Laptop verwendet.
+Unter dem Feld Barrierefreiheit "Sehen" wurde die Bildschirmlupe um 300% vergrößert und ein Rot-Grün Farbfilter aktiviert. Zudem wurde ebenfalls die Sprachausgabe aktiviert. 
+Für eine einfachere Handhabung des Kommunizierns werden Emails über die Sprachassistentin Siri mittels SmartPhones versendet. Als Alternative kann auch der Computer verwendet werden. 
 
-
-# Computer
-## Accessibility Settings
+![image](https://user-images.githubusercontent.com/82451150/150518950-d1e30a60-6a0b-42f6-bd54-fc41daca9b17.png)
+![image](https://user-images.githubusercontent.com/82451150/150518996-3b571642-957a-4468-bc69-5a3fa521a465.png)
+![image](https://user-images.githubusercontent.com/82451150/150519020-946b1b24-c578-4f50-952a-4fc75320e31b.png)
 
   
-# Eingabegeräte
-## FlipMouse
-## Fabi
+## Eingabegeräte
+### FlipMouse
+### Fabi
   
-# SmartPhone bedienen mit Siri
+## SmartPhone bedienen mit Siri
