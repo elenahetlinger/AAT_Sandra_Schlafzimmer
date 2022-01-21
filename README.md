@@ -39,19 +39,24 @@ Desweiteren soll die Beschattung des Wohnzimmers gesteuert werden.
 Es wird das Asterics Grid verwendet, um diese Steuerungen durchzuführen. Die Tatsache, dass Sandra nur ihren Mund bzw. ihre Lippen bewegen kann, ermöglicht die Verwendung einer FlipMouse. 
 
 ### Grid-Konfiguration
-Das Hauptseite -Grid beinhaltet zwei Zimmern und eine Mediensteuerung. Durch das Klicken mit einer Fabi-Button oder das Pusten in die FlipMouse, kann ein Grid ausgewählt werden. Dieses wird zusätzlich laut ausgesprochen und zu einer weiteren Seite des Grids navigiert. Zudem wird eine Asterics Aktion ausgeführt, welches Daten zu einem OpenHab Server sendet. 
-
-hauptseite grid
-  
 ![image](https://user-images.githubusercontent.com/82451150/150108903-94a94886-ede3-4edd-9bbf-32562a374b88.png)
 
-aktion bearbeiten schlafzimmer
-![image](https://user-images.githubusercontent.com/82451150/150138485-daa057fb-a8fa-4d2b-a6df-7d214505008a.png)
-
-Image: acs&are
+Das Hauptseite -Grid beinhaltet zwei Zimmern und eine Mediensteuerung. Durch das Klicken mit einer Fabi-Button oder das Pusten in die FlipMouse, kann ein Grid ausgewählt werden. Dieses wird zusätzlich laut ausgesprochen und zu einer weiteren Seite des Grids navigiert. Zudem wird eine Asterics Aktion ausgeführt, welches Daten zu einem OpenHab Server sendet. 
+Dabei ist es wichtig ein OpenHab Model in der Asterics Configuration Suite (ACS) hochzuladen und anschließend diese mit dem ARE zu verbinden. 
+Für eine korrekte Verbindung mit dem OpenHab-Server im Smart Homes Labor ist im ACS der richtige Hostname unter Properties zu vergeben. (Siehe unten) 
 
 ![image](https://user-images.githubusercontent.com/82451150/150504706-97677766-b0d2-44f5-878c-5c8c323ee72c.png)
 
+### Asterics Aktion bearbeiten
+Um die Smart Homes Elemente durch einem Tastendruck oder durch das Pusten/Saugen in die FlipMouse zu steuern, muss die Asterics Aktion richtig konfiguriert werden.
+Als erstes muss eine neue Asterics Aktion angelegt werden. Gleichzeitig sollte das ARE im Hintergrund laufen, damit das Model zum Grid heruntergeladen werden kann. Als nächstes wählt man die Komponente openHAB.1_c und sendet zum Port actionString die richtigen Befehle für die Steuerungen. Im untenstehenden Bild sind die verwendeten Befehle zu sehen.
+
+![image](https://user-images.githubusercontent.com/82451150/150149946-65dae4a3-f71d-41f6-9b7f-2396d3143a0e.png)
+![image](https://user-images.githubusercontent.com/82451150/150150656-a9532e06-b39e-4776-9414-d8710455f783.png)
+
+
+Einpaar Items wie Temperatur Regelung und das Dimmbares Licht Ein-/Ausschalten sind nicht im Smart Lab integriert und daher nur in der Basic-UI ersichtlich. 
+![image](https://user-images.githubusercontent.com/82451150/150325462-3e419ddd-273e-4ae3-8fab-4d7f54ec7910.png)
 
 ### Schlafzimmer -Grid
 Im Schlafzimmer Grid können Beleuchtung oder Temperatur ausgewählt werden. Diese leiten zu einer weiteren Seite, wo schließlich die Steuerungen als Asterics Aktionen durchgeführt werden. 
@@ -65,23 +70,9 @@ beleuchtung grid
   
 ![image](https://user-images.githubusercontent.com/82451150/150140079-42482fd5-51b6-45bd-bb80-f9966c6eb383.png)
 
-In den einzelnen Komponenten wie Licht an, Licht aus oder dimmen auf eine bestimmte Prozentanzahl werden Daten zu dem Port actionString gesendet.  
 
-asterics aktion , schlafzimmer licht on
 
-![image](https://user-images.githubusercontent.com/82451150/150149946-65dae4a3-f71d-41f6-9b7f-2396d3143a0e.png)
 
-Unten sieht man alle verwendeten Befehle für das Schlafzimmer Item.
-
-KNX befehle 
-
-![image](https://user-images.githubusercontent.com/82451150/150150656-a9532e06-b39e-4776-9414-d8710455f783.png)
-
-Das Item "Dimmen EIN/AUS" ist im Smart Lab integriert und somit nur in dem Basic UI ersichtlich. Auch die Temperatur im Wohnzimmer ist nur über das GUI tesbar.
-
-gui
-
-![image](https://user-images.githubusercontent.com/82451150/150325462-3e419ddd-273e-4ae3-8fab-4d7f54ec7910.png)
 
 
 ### Temperatur -Grid
