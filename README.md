@@ -79,7 +79,7 @@ Im Temperatur Grid kann zwischen 5, 10, 15 und 22 Grad ausgewählt werden. Weite
 ![image](https://user-images.githubusercontent.com/82451150/150153535-753db912-e2d4-4fb7-bf0d-50207b566115.png)
 
 ### Mediensteuerung -Grid
-Mit diesem Grid kann der Fernseher gesteuert werden. Mittels IrTrans Aktuator wurden Infrarot Signale aus der Fernbedienung eingelesen und abgespeichert. Anschießend ... <todo>
+Mit diesem Grid kann der Fernseher gesteuert werden. Mittels IrTrans Aktuator wurden Infrarot Signale aus der Fernbedienung eingelesen und abgespeichert. Anschießend ... 
 
 ### Wohnzimmer -Grid 
 Im Wohnzimmer Grid können die Jalousinen hinauf und hinunter navigiert werden. Auch hier musste das richtige Befehl zu dem Port "ActionString" versendet werden, um das gewünschte Ziel zu erreichen.
