@@ -34,8 +34,16 @@ Computerspielen vertreiben. Sie möchte gerne im Internet surfen oder am Smartph
 
 ## Eingabegeräte
 ### FlipMouse
+Was ein FlipMouse ist findet man in dem Link: https://www.asterics-foundation.org/projekte-2/flipmouse/
 
-### Fabi
+Die Einstellungen von FlipMouse 
+![image](https://user-images.githubusercontent.com/82451150/150942130-8e2d975d-9cd0-4c8d-a70d-2fc108b7f34e.jpeg)
+
+### Fabi - Flexible Assistive Button Interface
+Was ein FABI ist findet man in dem Link: https://www.asterics-foundation.org/projects/fabi/
+
+Die Einstellungen von FABI
+![image](https://user-images.githubusercontent.com/82451150/150942191-6641a9e6-45f5-45bf-b5fd-f33d19b22e19.jpeg)
 
 ## Umgebungssteuerung 
 ### AsTeRICs Grid
