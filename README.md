@@ -113,7 +113,7 @@ Für eine einfachere Handhabung des Kommunizierns werden Emails über die Sprach
 ![image](https://user-images.githubusercontent.com/82451150/150519020-946b1b24-c578-4f50-952a-4fc75320e31b.png)
 
 ### Computerspiel
-Hier Wird ein Computerspiel gespielt nur mit die 2 Buttons von Fabi
+Hier wird ein Computerspiel gespielt nur mit die 2 Buttons von Fabi
 ![image](https://user-images.githubusercontent.com/82451150/150941310-f68e9740-6560-44e3-8e5f-f93db2366129.jpeg)
 
 ## SMS schreiben und Anruf tätigen mittels Siri
