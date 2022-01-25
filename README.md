@@ -88,8 +88,8 @@ Im Temperatur Grid kann zwischen 5, 10, 15 und 22 Grad ausgewählt werden. Weite
 
 ### Mediensteuerung -Grid
 Mit diesem Grid kann der Fernseher gesteuert werden. 
-Mittels IrTrans Aktuator wurden Infrarot Signale aus der Fernbedienung eingelesen und abgespeichert. 
-Auch hier musste das richtige Befehl zu dem Port "ActionString" versendet werden, um das gewünschte Ziel zu erreichen.
+Mittels IrTrans Aktuator wurden Infrarot Signale aus der Fernbedienung eingelesen und abgespeichert. Aufgrund Sandras motorischen Beschränkungen wurde im Grid selbst alle wichtigen Tasten des Fernsehers abgebildet. In den untenstehenden Bildern sind die richtigen Einstellungen zu entnehmen. 
+
 ![image](https://user-images.githubusercontent.com/82451150/150939912-f62d167d-b206-42e0-aee5-ce788530f561.png)
 ![image](https://user-images.githubusercontent.com/82451150/150940311-24cd13a1-a19d-4ded-a892-ac19fe3cd101.png)
 ![image](https://user-images.githubusercontent.com/82451150/150940322-1dac7bba-7d4b-474d-b9ee-081249e47909.png)
@@ -98,7 +98,7 @@ Auch hier musste das richtige Befehl zu dem Port "ActionString" versendet werden
 
 
 ### Wohnzimmer -Grid 
-Im Wohnzimmer Grid können die Jalousinen hinauf und hinunter navigiert werden. Auch hier musste das richtige Befehl zu dem Port "ActionString" versendet werden, um das gewünschte Ziel zu erreichen.
+Im Wohnzimmer Grid können die Jalousinen hinauf und hinunter navigiert werden. Auch hier musste der richtige Befehl zu dem Port "ActionString" versendet werden, um das gewünschte Ziel zu erreichen.
   
 ![image](https://user-images.githubusercontent.com/82451150/150153827-4815036a-c410-49bd-8f10-3ce8d6d902f6.png)
 
@@ -106,14 +106,16 @@ Im Wohnzimmer Grid können die Jalousinen hinauf und hinunter navigiert werden. 
 ### Accessibility Settings
 Für den Wunsch Sandras Computerspiele spielen zu können und Emails zu schreiben wurde ein Windows 11 Laptop verwendet.
 Unter dem Feld Barrierefreiheit "Sehen" wurde die Bildschirmlupe um 300% vergrößert und ein Rot-Grün Farbfilter aktiviert. Zudem wurde ebenfalls die Sprachausgabe aktiviert. 
-Für eine einfachere Handhabung des Kommunizierns werden Emails über die Sprachassistentin Siri mittels SmartPhones versendet. Als Alternative zum Versenden von Mails kann auch der Computer verwendet werden. Hierfür wird die Bildschirmtastatur mittels FlipMouse angewendet.
+Für eine einfachere Handhabung des Kommunizierns werden Emails über die Sprachassistentin Siri mittels SmartPhones versendet. Als Alternative zum Versenden von Mails kann auch der Computer verwendet werden. Hierfür wird die Bildschirmtastatur mittels FlipMouse angesteuert.
 
 ![image](https://user-images.githubusercontent.com/82451150/150518950-d1e30a60-6a0b-42f6-bd54-fc41daca9b17.png)
 ![image](https://user-images.githubusercontent.com/82451150/150518996-3b571642-957a-4468-bc69-5a3fa521a465.png)
 ![image](https://user-images.githubusercontent.com/82451150/150519020-946b1b24-c578-4f50-952a-4fc75320e31b.png)
 
 ### Computerspiel
-Hier wird ein Computerspiel gespielt nur mit die 2 Buttons von Fabi
+In der Abbildung wurde das Computerspiel "Tunnel Rush" getestet. Auch hier wurde unter Berücksichtigung Sandras Fähigkeiten das Fabi mit zwei Buttons verwendet. Grundsätzlich können alle Spiele gespielt werden, die nur mit linken und rechten Pfeiltasten spielbar sind. 
+Die Konfiguration des Fabi Buttons sind oben bei den Eingabegeräten zu entnehmen. 
+
 ![image](https://user-images.githubusercontent.com/82451150/150941310-f68e9740-6560-44e3-8e5f-f93db2366129.jpeg)
 
 ## SMS schreiben und Anruf tätigen mittels Siri
@@ -122,7 +124,7 @@ Im untenstehenden Video ist die Kommunikation mit Siri erkennbar.
   
 ![image](https://user-images.githubusercontent.com/82451150/150521434-c37ad077-de36-483d-9412-56acc774e2cc.png) 
 
-Hier kann man sehen wie Siri verwendet wird um einen Anruf zu tätigen und ein SMS zum schreiben.
+Hier ist zu sehen wie Siri verwendet wird, um einen Anruf zu tätigen und eine SMS zu schreiben.
 
 https://user-images.githubusercontent.com/82451150/150940882-3ecf04d8-4103-4a96-99e5-6f6bac8f750d.mp4
 
@@ -130,5 +132,9 @@ https://user-images.githubusercontent.com/82451150/150940897-e765220e-fa53-482a-
 
 
 # Ergebnis FitsTask
+Der FitsTask konnte leider nicht durchgeführt werden, weil die .sd3 Datei nicht auf Windows10 geöffnet werden konnte.
+
 ![seq_sum3](https://user-images.githubusercontent.com/82451150/150532914-944404b7-801e-4000-9805-7f27d12a3c7b.JPG)
+![fehlermeldung](https://user-images.githubusercontent.com/82451150/150971884-a83bb21a-599c-4241-93ce-1533466cad1c.JPG)
+
 
