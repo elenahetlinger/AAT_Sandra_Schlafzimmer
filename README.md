@@ -79,7 +79,15 @@ Im Temperatur Grid kann zwischen 5, 10, 15 und 22 Grad ausgewählt werden. Weite
 ![image](https://user-images.githubusercontent.com/82451150/150153535-753db912-e2d4-4fb7-bf0d-50207b566115.png)
 
 ### Mediensteuerung -Grid
-Mit diesem Grid kann der Fernseher gesteuert werden. Mittels IrTrans Aktuator wurden Infrarot Signale aus der Fernbedienung eingelesen und abgespeichert. Anschießend ... 
+Mit diesem Grid kann der Fernseher gesteuert werden. 
+Mittels IrTrans Aktuator wurden Infrarot Signale aus der Fernbedienung eingelesen und abgespeichert. 
+Auch hier musste das richtige Befehl zu dem Port "ActionString" versendet werden, um das gewünschte Ziel zu erreichen.
+![image](https://user-images.githubusercontent.com/82451150/150939912-f62d167d-b206-42e0-aee5-ce788530f561.png)
+![image](https://user-images.githubusercontent.com/82451150/150940311-24cd13a1-a19d-4ded-a892-ac19fe3cd101.png)
+![image](https://user-images.githubusercontent.com/82451150/150940322-1dac7bba-7d4b-474d-b9ee-081249e47909.png)
+![image](https://user-images.githubusercontent.com/82451150/150938843-50166c19-874c-4d44-b134-dfdb0a5bc6fe.png)
+![image](https://user-images.githubusercontent.com/82451150/150940333-902dd9e5-5a0b-4d63-85c7-f0790c8740d4.png)
+
 
 ### Wohnzimmer -Grid 
 Im Wohnzimmer Grid können die Jalousinen hinauf und hinunter navigiert werden. Auch hier musste das richtige Befehl zu dem Port "ActionString" versendet werden, um das gewünschte Ziel zu erreichen.
@@ -97,13 +105,21 @@ Für eine einfachere Handhabung des Kommunizierns werden Emails über die Sprach
 ![image](https://user-images.githubusercontent.com/82451150/150519020-946b1b24-c578-4f50-952a-4fc75320e31b.png)
 
 ### Computerspiel
-  
-  
+Hier Wird ein Computerspiel gespielt nur mit die 2 Buttons von Fabi
+![image](https://user-images.githubusercontent.com/82451150/150941310-f68e9740-6560-44e3-8e5f-f93db2366129.jpeg)
+
 ## SMS schreiben und Anruf tätigen mittels Siri
 Das Apple Siri ist eine Sprachassistentin, der für Sandra perfekt geeignet ist, um Anrufe zu tätigen oder Emails zu verschicken. In den Einstellungen muss das erste Feld "Auf Hey Siri achten" aktiviert sein, um nur über die Sprache an Siri Befehle zu übermitteln.
 Im untenstehenden Video ist die Kommunikation mit Siri erkennbar.
   
 ![image](https://user-images.githubusercontent.com/82451150/150521434-c37ad077-de36-483d-9412-56acc774e2cc.png) 
+
+Hier kann man sehen wie Siri verwendet wird um einen Anruf zu tätigen und ein SMS zum schreiben.
+
+https://user-images.githubusercontent.com/82451150/150940882-3ecf04d8-4103-4a96-99e5-6f6bac8f750d.mp4
+
+https://user-images.githubusercontent.com/82451150/150940897-e765220e-fa53-482a-b873-101674127b6f.mp4
+
 
 # Ergebnis FitsTask
 ![seq_sum3](https://user-images.githubusercontent.com/82451150/150532914-944404b7-801e-4000-9805-7f27d12a3c7b.JPG)
