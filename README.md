@@ -131,10 +131,15 @@ https://user-images.githubusercontent.com/82451150/150940882-3ecf04d8-4103-4a96-
 https://user-images.githubusercontent.com/82451150/150940897-e765220e-fa53-482a-b873-101674127b6f.mp4
 
 
-# Ergebnis FitsTask
-Der FitsTask konnte leider nicht durchgeführt werden, weil die .sd3 Datei nicht auf Windows10 geöffnet werden konnte.
+# Ergebnis FitsTask!
+[gofits1](https://user-images.githubusercontent.com/82451150/151156843-5a6ecbe9-d7e8-4586-b494-3929c8c54ace.JPG)
 
-![seq_sum3](https://user-images.githubusercontent.com/82451150/150532914-944404b7-801e-4000-9805-7f27d12a3c7b.JPG)
-![fehlermeldung](https://user-images.githubusercontent.com/82451150/150971884-a83bb21a-599c-4241-93ce-1533466cad1c.JPG)
+Das Ergebnis mit dem besten Throughput wurde bereits im zweiten Versuch erreicht.
+ ![beste_tp](https://user-images.githubusercontent.com/82451150/151157068-8ff6450c-19d7-4643-8fc7-4a6500c22812.jpg)
+
+Die Sewquenz mit dem schechtesten Throughput ist aus dem unteren Bild zu entnehmen.
+![shlechteste_tp](https://user-images.githubusercontent.com/82451150/151157230-d57bb0de-0a91-45eb-b144-c81ee88d913c.JPG)
+
+
 
 
